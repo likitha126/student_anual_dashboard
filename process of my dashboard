@@ -1,0 +1,31 @@
+Greetings to all.
+I've only recently begun familiarizing myself with data analytics tools.
+Here is my first-week assignment, followed by a lesson in code basics.
+Using Microsoft Excel, I made a student's annual budget dashboard.
+Process I followed to complete
+
+Step 1: .I learned some of the fundamentals of MS Excel's mathematical formulas and some of the effective techniques in MS Excel for creating a dashboard. Beginning with learning, I started practicing similarly.
+
+Step 2: I've gathered some unprocessed data on student expenses here based on my assumptions. They were split up into three smaller blocks.
+a. A student's annual income
+b. Fixed costs
+c. Adjustable expenses
+
+Step 3: Adjustable expenses can be changed here in accordance with our needs.
+However, we compile a rough estimate of expenses for our spreadsheet.
+
+Step 4: we gathered the total expenses of a person by calcula #work ting the sum of both fixed and adjustable expenses
+SUM(FIXED + FLEXIBLE EXPENSES) = TOTAL EXPENSES
+SUM(TOTAL INCOME) = TOTAL INCOME
+VARIANCE = TOTAL EXPENSES - TOTAL PROFIT (AMOUNT SAVED).
+
+Total income : $5,610.00
+Total expenses : $2,955.00
+savings : $2,655.00
+
+Step 5: Additionally, it displayed the percentage of expenses broken down into subtypes 1 (education, transportation, other, entertainment, and loans).
+
+In step six, I displayed all income, expenses, and savings in a "PIE CHART," along with the expense subtypes.
+
+This is my initial effort; hopefully, I did it better. A special thanks to Dhaval Patel and Hemanand Vadivel, who suggested the best roadmap to becoming an excellent data analyst.
+With great gratitude, suggestions can be accepted to improve my work.
